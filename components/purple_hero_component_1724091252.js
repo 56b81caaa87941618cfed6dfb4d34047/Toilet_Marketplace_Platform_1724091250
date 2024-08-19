@@ -17,17 +17,17 @@ Vue.component("purple_hero_component_1724091252", {
                            href="#0" 
                            style="background: linear-gradient(theme(colors.purple.500), theme(colors.purple.500)) padding-box, linear-gradient(theme(colors.purple.500), theme(colors.purple.200) 75%, theme(colors.transparent) 100%) border-box;">
                             <span id="announcement-link-text" class="relative inline-flex items-center">
-                                LANDING_PAGE_ANNOUNCEMENT_TEXT 
+                                Flush into savings with our exclusive deals! 
                                 <span id="announcement-arrow" class="tracking-normal group-hover:translate-x-0.5 transition-transform duration-150 ease-in-out ml-1 text-purple-500">-&gt;</span>
                             </span>
                         </a>
                     </div>
                 </div>
                 <div class="flex" id="hero-text-container">
-                    <h1 id="hero-text" class="h1 bg-clip-text text-transparent bg-gradient-to-r from-slate-200/60 via-slate-200 to-slate-200/60 pb-4" data-aos="fade-down">LANDING_PAGE_HERO_TEXT</h1>
+                    <h1 id="hero-text" class="h1 bg-clip-text text-transparent bg-gradient-to-r from-slate-200/60 via-slate-200 to-slate-200/60 pb-4" data-aos="fade-down">Your throne awaits. Welcome to the ultimate toilet marketplace.</h1>
                 </div>
                 <div class="flex" id="sub-hero-text-container">
-                    <p id="sub-hero-text" class="flex-1 text-lg mb-8 text-slate-300" data-aos="fade-down" data-aos-delay="200">LANDING_PAGE_SUB_HERO_TEXT</p>
+                    <p id="sub-hero-text" class="flex-1 text-lg mb-8 text-slate-300" data-aos="fade-down" data-aos-delay="200">Discover a world of comfort, style, and efficiency. From classic designs to smart toilets, find the perfect fit for your bathroom at unbeatable prices.</p>
                 </div>
                 <div id="buttons-container" class="flex justify-center space-x-4 mt-8">
                     <div id="get-started-button-container">
