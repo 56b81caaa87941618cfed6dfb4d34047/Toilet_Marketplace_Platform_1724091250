@@ -1,5 +1,14 @@
 [
     {
+        "role": "chat_qna",
+        "content": "{\"status\": \"success\", \"qna\": [{\"question 1\": \"Can you specify what aspect of the header component is not working properly? Is it a responsiveness issue on different devices or is there a functionality problem?\", \"option1\": \"The issue is with responsiveness on different devices.\", \"option2\": \"The issue is with a specific functionality not working as expected.\"}, {\"question 2\": \"Would you like to enhance the existing design of the header component as part of the fix, or should we strictly stick to correcting the current problems?\", \"option1\": \"Yes, enhance the design as part of the fix.\", \"option2\": \"No, please just correct the current problems.\"}], \"input_token_count\": 314, \"output_token_count\": 139, \"time_taken\": \"0:00:05.032984\"}",
+        "message_id": "guest26082024205836",
+        "timestamp": "26082024205842",
+        "component_file_name": "purple_header_component_1724091252",
+        "div_id": "",
+        "div_action": ""
+    },
+    {
         "role": "user",
         "content": "Fix this header component -- it is not currently working properly",
         "message_id": "guest26082024205836",
