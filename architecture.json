@@ -1,1 +1,6 @@
-[]
+[
+    {
+        "level": 1,
+        "task_description": "This is the user's previous chat history with this AI:\n\nAI: Understood, I'll work on fixing the header component.\nUser: Fix this header component -- it is not currently working properly\n\nThis is the user's current request of changes to be made:\nFix this header component -- it is not currently working properly"
+    }
+]
