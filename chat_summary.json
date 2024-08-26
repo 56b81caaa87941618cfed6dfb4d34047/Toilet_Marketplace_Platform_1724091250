@@ -12,5 +12,11 @@
         "content": "Understood, I'll work on fixing the header component.",
         "timestamp": "26082024205702",
         "message_id": "guest26082024205701"
+    },
+    {
+        "role": "user",
+        "content": "Fix this header component -- it is not currently working properly",
+        "timestamp": "26082024205701",
+        "message_id": "guest26082024205701"
     }
 ]
